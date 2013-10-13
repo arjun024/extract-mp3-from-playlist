@@ -46,6 +46,3 @@ def main():
 
 if __name__ == "__main__":
 	main()
-	print("\n*********************************************\n")
-	print("@author Arjun Sreedharan (arjun024@gmail.com)\n")
-	print("*********************************************\n")
